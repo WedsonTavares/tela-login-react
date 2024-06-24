@@ -38,4 +38,4 @@ A aplicação estará disponível em http://localhost:3000.
 Se você quiser contribuir com este projeto, sinta-se à vontade para abrir issues e pull requests.
 
 
-Para mais informações, entre em contato pelo [LinkedIn](www.linkedin.com/in/wedsontavares/)
+Para mais informações, entre em contato pelo <a> [LinkedIn](www.linkedin.com/in/wedsontavares/)</a>
